@@ -4,4 +4,4 @@
 
 <p align="center">My strengths include project management and leadership skills. I'm a great team worker and I see the big picture.</p>
 
-<p align="center">I'm looking for a junior position or an internship in the field of IT for the spring of 2023. Send me a message!</p>
+<p align="center">I'm looking for a junior position or an internship in the field of IT for the spring of 2023. <a href="mailto:me@juan.fi">Send me a message!</a></p>
